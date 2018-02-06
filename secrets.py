@@ -1,0 +1,2 @@
+client_key= 'ACWjUFdGmuiaLxZ51wuXCEkW0'
+client_secret='R8Z87Vu4kwwOps9qvPvyIYiYxUHtljCsF63nI2c96t7EEjYRzz'
